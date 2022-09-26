@@ -7,7 +7,7 @@ I'm Ezequiel Fernandez Excoffon.
 - 🥋 I practice Brazilian Jiu-jitsu 🟪◼️◼️🟪🟪🟪.
 
 
-![Snake animation](https://github.com/{{ezeferex}}/{{ezeferex}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 - 📫 How to reach me: ...
