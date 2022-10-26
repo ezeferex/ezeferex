@@ -7,9 +7,8 @@ I'm Ezequiel Fernandez Excoffon.
 - 🥋 I practice Brazilian Jiu-jitsu 🟪◼️◼️🟪🟪🟪.
 
 
-![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeferex)](https://github.com/ezeferex/github-readme-stats)
 
-<!--
-- 📫 How to reach me: ...
-https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeferex&show_icons=true)
+
+![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-contribution-grid-snake.svg)
