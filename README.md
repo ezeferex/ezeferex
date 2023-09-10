@@ -13,4 +13,4 @@ I'm Ezequiel Fernandez Excoffon.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ezeferex&theme=dark)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-snake-dark.svg)
