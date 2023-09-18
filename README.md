@@ -7,7 +7,7 @@ I'm Ezequiel Fernandez Excoffon.
 - 🥋 I practice Brazilian Jiu-jitsu 🟪◼️◼️🟪🟪🟪.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeferex&theme=dracula)](https://github.com/ezeferex/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeferex&layout=donut-vertical)
 
 ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ezeferex&show_icons=true&theme=dracula)
 
