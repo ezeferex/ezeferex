@@ -7,10 +7,10 @@ I'm Ezequiel Fernandez Excoffon.
 - 🥋 I practice Brazilian Jiu-jitsu 🟪◼️◼️🟪🟪🟪.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeferex&layout=donut-vertical)
+![Top Languages](./profile/top-langs.svg)
 
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ezeferex&show_icons=true&theme=dracula)
+![Ezequiel's GitHub Stats](./profile/stats.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ezeferex&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ezeferex&theme=dark)](https://git.io/streak-stats) -->
 
 ![Snake animation](https://github.com/ezeferex/ezeferex/blob/output/github-snake-dark.svg)
